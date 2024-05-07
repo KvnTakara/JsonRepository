@@ -1,0 +1,1245 @@
+{
+  "caso0": {
+    "nome_do_caso": "Sombras no Corredor Hospitalar",
+    "pergunta": "O detetive João está investigando um caso misterioso em um hospital. Uma pessoa foi encontrada morta em circunstâncias suspeitas. Quem é o principal suspeito?",
+    "url_intro": "https://game.viewder.io/resources/intros/intro.mp4",
+    "resposta_correta": "a",
+    "comentario": "Parabéns! Você identificou corretamente o principal suspeito. Durante a investigação, descobriu-se que o Dr. Silva, médico de plantão, teve uma discussão com o paciente no ambulatório momentos antes do incidente. Além disso, uma transação financeira suspeita foi registrada na conta do paciente, levantando questões sobre possíveis motivos financeiros. As câmeras do bloco cirúrgico mostram a entrada de um paciente desconhecido na hora do incidente, adicionando um elemento de mistério ao caso. As outras opções não apresentaram evidências significativas.",
+    "opcoes": [
+      {
+        "alternativa": "a",
+        "resposta": "Dr. Silva, um médico que estava de plantão na hora do incidente."
+      },
+      {
+        "alternativa": "b",
+        "resposta": "Enfermeira Oliveira, que estava responsável pelo paciente naquele momento."
+      },
+      {
+        "alternativa": "c",
+        "resposta": "Sr. Santos, um visitante que estava no hospital na hora do ocorrido."
+      },
+      {
+        "alternativa": "d",
+        "resposta": "Técnico de Laboratório Pereira, que estava manipulando substâncias no laboratório."
+      },
+      {
+        "alternativa": "e",
+        "resposta": "Dra. Souza, a diretora do hospital."
+      }
+    ],
+    "pistas": [
+      {
+        "local": "financeiro",
+        "text": "Uma transação suspeita foi registrada na conta do paciente no setor financeiro.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          },
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "ambulatorio",
+        "text": "Testemunhas no ambulatório relataram ter visto o paciente discutindo com o Dr. Silva antes do incidente.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "bloco_cirurgico",
+        "text": "O bloco cirúrgico registrou a entrada de um paciente desconhecido na hora do incidente.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "posto_de_enfermagem",
+        "text": "A enfermeira Oliveira estava de plantão no posto de enfermagem quando o paciente faleceu.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "laboratorio",
+        "text": "Não há informações relevantes no laboratório.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "oncologia",
+        "text": "O paciente não estava relacionado à oncologia.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "recepcao",
+        "text": "A recepcionista não notou nada de incomum na entrada do hospital naquele dia.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "pronto_socorro",
+        "text": "Não há registros de visitas ao pronto socorro relacionadas ao paciente.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "lanchonete",
+        "text": "A lanchonete não tem informações relevantes para o caso.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "uti",
+        "text": "O paciente não foi transferido para a UTI antes do incidente.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "enfermaria",
+        "text": "A enfermaria não possui informações adicionais sobre o paciente.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "diretoria",
+        "text": "A diretora do hospital, Dra. Souza, estava em uma reunião na hora do incidente.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "radiologia",
+        "text": "Não há registros de exames recentes relacionados ao paciente.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "farmacia",
+        "text": "A farmácia não tem registros de medicamentos incomuns relacionados ao paciente.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "pediatria",
+        "text": "O paciente não estava relacionado à pediatria.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "repouso_medico",
+        "text": "Não há informações relevantes sobre repouso médico para o paciente.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "caso1": {
+    "nome_do_caso": "Caso 1",
+    "pergunta": "Descrição do [Caso1] a ser resolvido [casos.json]",
+    "url_intro": "https://game.viewder.io/resources/intros/intro.mp4",
+    "resposta_correta": "a",
+    "comentario": "Comentário sobre a Alternativa correta [Caso1] [casos.json]",
+    "opcoes": [
+      {
+        "alternativa": "a",
+        "resposta": "[Caso1] Alternativa A [casos.json]"
+      },
+      {
+        "alternativa": "b",
+        "resposta": "[Caso1] Alternativa B [casos.json]"
+      },
+      {
+        "alternativa": "c",
+        "resposta": "[Caso1] Alternativa C [casos.json]"
+      },
+      {
+        "alternativa": "d",
+        "resposta": "[Caso1] Alternativa D [casos.json]"
+      },
+      {
+        "alternativa": "e",
+        "resposta": "[Caso1] Alternativa E [casos.json]"
+      }
+    ],
+    "pistas": [
+      {
+        "local": "financeiro",
+        "text": "Pista [Caso1] contida no Financeiro [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          },
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "ambulatorio",
+        "text": "Pista [Caso1] contida no Ambulatório [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "bloco_cirurgico",
+        "text": "Pista [Caso1] contida no Bloco Cirúrgico [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "posto_de_enfermagem",
+        "text": "Pista [Caso1] contida no Posto de Enfermagem [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "laboratorio",
+        "text": "Pista [Caso1] contida no Laboratório [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "oncologia",
+        "text": "Pista [Caso1] contida na Oncologia [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "recepcao",
+        "text": "Pista [Caso1] contida na Recepção [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "pronto_socorro",
+        "text": "Pista [Caso1] contida no Pronto Socorro [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "lanchonete",
+        "text": "Pista [Caso1] contida na Lanchonete [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "uti",
+        "text": "Pista [Caso1] contida na UTI [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "enfermaria",
+        "text": "Pista [Caso1] contida na Enfermaria [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "diretoria",
+        "text": "Pista [Caso1] contida na Diretoria [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "radiologia",
+        "text": "Pista [Caso1] contida na Radiologia [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "farmacia",
+        "text": "Pista [Caso1] contida na Farmácia [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "pediatria",
+        "text": "Pista [Caso1] contida na Pediatria [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "repouso_medico",
+        "text": "Pista [Caso1] contida no Repouso Médico [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "caso2": {
+    "nome_do_caso": "Desvendando o Mistério Hospitalar",
+    "pergunta": "Qual é a origem do problema que levou o diretor do Hospital São Mistério a desmaiar em seu escritório?",
+    "url_intro": "https://game.viewder.io/resources/intros/intro.mp4",
+    "resposta_correta": "a",
+    "comentario": "A situação financeira delicada do hospital pode ter levado a decisões drásticas, impactando a saúde do diretor.",
+    "opcoes": [
+      {
+        "alternativa": "a",
+        "resposta": "Problema financeiro no hospital."
+      },
+      {
+        "alternativa": "b",
+        "resposta": "Erro médico no bloco cirúrgico."
+      },
+      {
+        "alternativa": "c",
+        "resposta": "Contaminação em algum medicamento no laboratório."
+      },
+      {
+        "alternativa": "d",
+        "resposta": "Conflito na diretoria do hospital."
+      },
+      {
+        "alternativa": "e",
+        "resposta": "Incidente no repouso médico."
+      }
+    ],
+    "pistas": [
+      {
+        "local": "financeiro",
+        "text": "Documentos financeiros indicam uma situação crítica no orçamento do hospital.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "ambulatorio",
+        "text": "Registros do ambulatório sugerem um aumento repentino de pacientes com sintomas desconhecidos.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "bloco_cirurgico",
+        "text": "Instrumentos cirúrgicos fora do lugar indicam uma possível negligência no bloco cirúrgico.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "posto_de_enfermagem",
+        "text": "Anotações no posto de enfermagem mencionam uma substância suspeita encontrada em medicamentos.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "laboratorio",
+        "text": "Resultados de exames revelam anormalidades em amostras de pacientes recentes.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "oncologia",
+        "text": "Resultados de exames revelam anormalidades em amostras de pacientes recentes.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "recepcao",
+        "text": "Resultados de exames revelam anormalidades em amostras de pacientes recentes.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "pronto_socorro",
+        "text": "Resultados de exames revelam anormalidades em amostras de pacientes recentes.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "lanchonete",
+        "text": "Resultados de exames revelam anormalidades em amostras de pacientes recentes.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "uti",
+        "text": "Resultados de exames revelam anormalidades em amostras de pacientes recentes.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "enfermaria",
+        "text": "Resultados de exames revelam anormalidades em amostras de pacientes recentes.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "diretoria",
+        "text": "Documentos confidenciais na diretoria indicam uma possível conspiração interna.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "radiologia",
+        "text": "Imagens radiológicas revelam anomalias inesperadas nos pacientes recentes.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "farmacia",
+        "text": "Inventário da farmácia aponta a falta de medicamentos cruciais para tratamentos específicos.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "pediatria",
+        "text": "Pacientes pediátricos apresentam sintomas incomuns, indicando possíveis contaminações.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "repouso_medico",
+        "text": "Registros do repouso médico indicam o uso inadequado de medicamentos por parte de alguns funcionários.",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "caso3": {
+    "nome_do_caso": "Caso 3",
+    "pergunta": "Descrição do [Caso3] a ser resolvido [casos.json]",
+    "url_intro": "",
+    "resposta_correta": "a",
+    "comentario": "Comentário sobre a Alternativa correta [Caso3] [casos.json]",
+    "opcoes": [
+      {
+        "alternativa": "a",
+        "resposta": "[Caso3] Alternativa A [casos.json]"
+      },
+      {
+        "alternativa": "b",
+        "resposta": "[Caso3] Alternativa B [casos.json]"
+      },
+      {
+        "alternativa": "c",
+        "resposta": "[Caso3] Alternativa C [casos.json]"
+      },
+      {
+        "alternativa": "d",
+        "resposta": "[Caso3] Alternativa D [casos.json]"
+      },
+      {
+        "alternativa": "e",
+        "resposta": "[Caso3] Alternativa E [casos.json]"
+      }
+    ],
+    "pistas": [
+      {
+        "local": "financeiro",
+        "text": "Pista [Caso3] contida no Financeiro [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          },
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "ambulatorio",
+        "text": "Pista [Caso3] contida no Ambulatório [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "bloco_cirurgico",
+        "text": "Pista [Caso3] contida no Bloco Cirúrgico [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "posto_de_enfermagem",
+        "text": "Pista [Caso3] contida no Posto de Enfermagem [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "laboratorio",
+        "text": "Pista [Caso3] contida no Laboratório [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "oncologia",
+        "text": "Pista [Caso3] contida na Oncologia [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "recepcao",
+        "text": "Pista [Caso3] contida na Recepção [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "pronto_socorro",
+        "text": "Pista [Caso3] contida no Pronto Socorro [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "lanchonete",
+        "text": "Pista [Caso3] contida na Lanchonete [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "uti",
+        "text": "Pista [Caso3] contida na UTI [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "enfermaria",
+        "text": "Pista [Caso3] contida na Enfermaria [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "diretoria",
+        "text": "Pista [Caso3] contida na Diretoria [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "radiologia",
+        "text": "Pista [Caso3] contida na Radiologia [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "farmacia",
+        "text": "Pista [Caso3] contida na Farmácia [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "pediatria",
+        "text": "Pista [Caso3] contida na Pediatria [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "repouso_medico",
+        "text": "Pista [Caso3] contida no Repouso Médico [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "caso4": {
+    "nome_do_caso": "Caso 4",
+    "pergunta": "Descrição do [Caso4] a ser resolvido [casos.json]",
+    "url_intro": "",
+    "resposta_correta": "a",
+    "comentario": "Comentário sobre a Alternativa correta [Caso4] [casos.json]",
+    "opcoes": [
+      {
+        "alternativa": "a",
+        "resposta": "[Caso4] Alternativa A [casos.json]"
+      },
+      {
+        "alternativa": "b",
+        "resposta": "[Caso4] Alternativa B [casos.json]"
+      },
+      {
+        "alternativa": "c",
+        "resposta": "[Caso4] Alternativa C [casos.json]"
+      },
+      {
+        "alternativa": "d",
+        "resposta": "[Caso4] Alternativa D [casos.json]"
+      },
+      {
+        "alternativa": "e",
+        "resposta": "[Caso4] Alternativa E [casos.json]"
+      }
+    ],
+    "pistas": [
+      {
+        "local": "financeiro",
+        "text": "Pista [Caso4] contida no Financeiro [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          },
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "ambulatorio",
+        "text": "Pista [Caso4] contida no Ambulatório [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "bloco_cirurgico",
+        "text": "Pista [Caso4] contida no Bloco Cirúrgico [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "posto_de_enfermagem",
+        "text": "Pista [Caso4] contida no Posto de Enfermagem [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "laboratorio",
+        "text": "Pista [Caso4] contida no Laboratório [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "oncologia",
+        "text": "Pista [Caso4] contida na Oncologia [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "recepcao",
+        "text": "Pista [Caso4] contida na Recepção [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "pronto_socorro",
+        "text": "Pista [Caso4] contida no Pronto Socorro [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "lanchonete",
+        "text": "Pista [Caso4] contida na Lanchonete [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "uti",
+        "text": "Pista [Caso4] contida na UTI [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "enfermaria",
+        "text": "Pista [Caso4] contida na Enfermaria [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "diretoria",
+        "text": "Pista [Caso4] contida na Diretoria [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "radiologia",
+        "text": "Pista [Caso4] contida na Radiologia [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "farmacia",
+        "text": "Pista [Caso4] contida na Farmácia [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "pediatria",
+        "text": "Pista [Caso4] contida na Pediatria [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "repouso_medico",
+        "text": "Pista [Caso4] contida no Repouso Médico [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "caso5": {
+    "nome_do_caso": "Caso 5",
+    "pergunta": "Descrição do [Caso5] a ser resolvido [casos.json]",
+    "url_intro": "",
+    "resposta_correta": "a",
+    "comentario": "Comentário sobre a Alternativa correta [Caso5] [casos.json]",
+    "opcoes": [
+      {
+        "alternativa": "a",
+        "resposta": "[Caso5] Alternativa A [casos.json]"
+      },
+      {
+        "alternativa": "b",
+        "resposta": "[Caso5] Alternativa B [casos.json]"
+      },
+      {
+        "alternativa": "c",
+        "resposta": "[Caso5] Alternativa C [casos.json]"
+      },
+      {
+        "alternativa": "d",
+        "resposta": "[Caso5] Alternativa D [casos.json]"
+      },
+      {
+        "alternativa": "e",
+        "resposta": "[Caso5] Alternativa E [casos.json]"
+      }
+    ],
+    "pistas": [
+      {
+        "local": "financeiro",
+        "text": "Pista [Caso5] contida no Financeiro [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          },
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "ambulatorio",
+        "text": "Pista [Caso5] contida no Ambulatório [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "bloco_cirurgico",
+        "text": "Pista [Caso5] contida no Bloco Cirúrgico [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "posto_de_enfermagem",
+        "text": "Pista [Caso5] contida no Posto de Enfermagem [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "laboratorio",
+        "text": "Pista [Caso5] contida no Laboratório [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "oncologia",
+        "text": "Pista [Caso5] contida na Oncologia [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "recepcao",
+        "text": "Pista [Caso5] contida na Recepção [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "pronto_socorro",
+        "text": "Pista [Caso5] contida no Pronto Socorro [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "lanchonete",
+        "text": "Pista [Caso5] contida na Lanchonete [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "uti",
+        "text": "Pista [Caso5] contida na UTI [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "enfermaria",
+        "text": "Pista [Caso5] contida na Enfermaria [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "diretoria",
+        "text": "Pista [Caso5] contida na Diretoria [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "radiologia",
+        "text": "Pista [Caso5] contida na Radiologia [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "farmacia",
+        "text": "Pista [Caso5] contida na Farmácia [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "pediatria",
+        "text": "Pista [Caso5] contida na Pediatria [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "repouso_medico",
+        "text": "Pista [Caso5] contida no Repouso Médico [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "caso6": {
+    "nome_do_caso": "Caso 6",
+    "pergunta": "Descrição do [Caso6] a ser resolvido [casos.json]",
+    "url_intro": "",
+    "resposta_correta": "a",
+    "comentario": "Comentário sobre a Alternativa correta [Caso6] [casos.json]",
+    "opcoes": [
+      {
+        "alternativa": "a",
+        "resposta": "[Caso6] Alternativa A [casos.json]"
+      },
+      {
+        "alternativa": "b",
+        "resposta": "[Caso6] Alternativa B [casos.json]"
+      },
+      {
+        "alternativa": "c",
+        "resposta": "[Caso6] Alternativa C [casos.json]"
+      },
+      {
+        "alternativa": "d",
+        "resposta": "[Caso6] Alternativa D [casos.json]"
+      },
+      {
+        "alternativa": "e",
+        "resposta": "[Caso6] Alternativa E [casos.json]"
+      }
+    ],
+    "pistas": [
+      {
+        "local": "financeiro",
+        "text": "Pista [Caso6] contida no Financeiro [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          },
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "ambulatorio",
+        "text": "Pista [Caso6] contida no Ambulatório [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "bloco_cirurgico",
+        "text": "Pista [Caso6] contida no Bloco Cirúrgico [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "posto_de_enfermagem",
+        "text": "Pista [Caso6] contida no Posto de Enfermagem [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "laboratorio",
+        "text": "Pista [Caso6] contida no Laboratório [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "oncologia",
+        "text": "Pista [Caso6] contida na Oncologia [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "recepcao",
+        "text": "Pista [Caso6] contida na Recepção [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "pronto_socorro",
+        "text": "Pista [Caso6] contida no Pronto Socorro [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "lanchonete",
+        "text": "Pista [Caso6] contida na Lanchonete [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "uti",
+        "text": "Pista [Caso6] contida na UTI [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "enfermaria",
+        "text": "Pista [Caso6] contida na Enfermaria [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "diretoria",
+        "text": "Pista [Caso6] contida na Diretoria [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "radiologia",
+        "text": "Pista [Caso6] contida na Radiologia [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "farmacia",
+        "text": "Pista [Caso6] contida na Farmácia [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "pediatria",
+        "text": "Pista [Caso6] contida na Pediatria [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      },
+      {
+        "local": "repouso_medico",
+        "text": "Pista [Caso6] contida no Repouso Médico [casos.json]",
+        "image": [
+          {
+            "url": "https://as2.ftcdn.net/v2/jpg/03/86/76/69/1000_F_386766989_JXLrPnY4THDN20Jfa4C5gugyuyw9vHe5.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
